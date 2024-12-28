@@ -14,6 +14,7 @@ Fonctionalités:
 
 ## Interface:
 - Multi-lod rendering
+- Activer/désactiver le smoothing
 - Zoom à l'endroit du pointeur 
 - Déplacement à la souris
 - Déplacement aux flèches du clavier
